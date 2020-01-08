@@ -1,0 +1,22 @@
+.conversor {
+    padding: 20px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.conversor h2 {
+    font-family: "Gill Sans";
+    font-size: 18pt;
+}
+
+.input-value {
+    margin-bottom: 10px;
+}
+
+.convert-button {
+    font-family: "Gill Sans";
+    border-radius: 5px;
+    padding: 10px;
+
+}
